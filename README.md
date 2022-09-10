@@ -13,7 +13,9 @@
 3. Run
   -> Type Command 
     - npm start
+         OR
     - node app.js
+         OR
     - nodemon app.js (after installing nodemon)
       - to install nodemon,
         - npm i nodemon OR npm install nodemon 
